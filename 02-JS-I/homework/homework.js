@@ -8,7 +8,8 @@ const nuevoNum = null;
 
 // Crea una variable booleana:
 const nuevoBool = null;
-
+var = positivo 24 ;
+var = negativo -15 ;
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
 
