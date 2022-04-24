@@ -5,13 +5,16 @@ const nuevaString = 'hola';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
-
+var = positivo 24;
+var = negativo -15;
 // Crea una variable booleana:
 const nuevoBool = null;
-var = positivo 24 ;
-var = negativo -15 ;
+me encanta este dia = true;
+este dia es feo = false;
+
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
+
 
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * null === 40 ;
